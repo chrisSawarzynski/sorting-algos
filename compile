@@ -1,3 +1,0 @@
-#!/bin/bash
-# Compile project
-gcc -o testAlgos.exe main.c
