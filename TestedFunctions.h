@@ -1,9 +1,12 @@
 #ifndef TESTED_FUNCTIONS
 #define TESTED_FUNCTIONS
+#include "Result.h"
 
 struct TestedFunctions {
-    void (*callback)(int, int[]);
     char* name;
+    void (*callback)(int, int[]);
+    struct Result results[INSTANCE_COUNT];
+    int resultCount;
 };
 
 #endif
