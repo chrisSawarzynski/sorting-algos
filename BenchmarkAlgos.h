@@ -22,7 +22,7 @@ void benchmark_algos( struct TestedFunctions* sortingAlgos, struct TestInstances
     for (int i = 0; i < CALLBACK_COUNT; i++) {
         for (int j = 0; j < INSTANCE_COUNT; j++) {
 
-            sortingAlgos[i].resultCount += 1;
+            sortingAlgos[i].resultCount += 1;//potrzebne wgle?
             sortingAlgos[i].results[j].instance_type = testInstances[j].type_name;
             sortingAlgos[i].results[j].instance_size = testInstances[j].size;
             sortingAlgos[i].results[j].time = callback_execution_time(sortingAlgos[i], testInstances[j]);
