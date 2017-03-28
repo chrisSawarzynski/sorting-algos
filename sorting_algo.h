@@ -5,7 +5,7 @@
 
 void sorting_algo (int n, int* instance){
     time_t start = clock();
-    while((clock() - start) / CLOCKS_PER_SEC < 20);
+    while(difftime(clock(), start)/CLOCKS_PER_SEC < 5.6);
 }
 
 #endif
