@@ -3,9 +3,11 @@
 #include <time.h>
 
 
-void sorting_algo (int n, int* instance){
+int* sorting_algo (int* instance, int n){
     time_t start = clock();
     while(difftime(clock(), start)/CLOCKS_PER_SEC < 5.6);
+    
+    return instance;
 }
 
 #endif

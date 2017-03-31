@@ -11,7 +11,7 @@ double callback_execution_time(struct TestedFunctions sortingAlgo, struct TestIn
         clock_t stop = 0;
 
         start = clock();
-        sortingAlgo.callback(testInstance.size, testInstance.elements);
+        sortingAlgo.callback(testInstance.elements, testInstance.size);
         stop = clock();
 
         return difftime(stop,start)/CLOCKS_PER_SEC;

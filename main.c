@@ -4,8 +4,8 @@
 
 
 #define CALLBACK_COUNT 1
-#define INSTANCE_LENGTHS_COUNT 1
-#define INSTANCE_TYPES 1
+#define INSTANCE_LENGTHS_COUNT 5
+#define INSTANCE_TYPES 5
 #define INSTANCE_COUNT INSTANCE_TYPES * INSTANCE_LENGTHS_COUNT
 
 #include "TestedFunctions.h"
@@ -22,7 +22,7 @@ int main(int argc, char *argv[]) {
     struct TestedFunctions sortingAlgos[CALLBACK_COUNT];
     struct TestInstances testInstances[INSTANCE_COUNT];
 
-    int lengths[INSTANCE_LENGTHS_COUNT] = {200};
+    int lengths[INSTANCE_LENGTHS_COUNT] = {200, 1000, 100000, 1000000, 10000000};
 
     fill_test_instances(testInstances, lengths);
 
