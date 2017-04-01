@@ -6,7 +6,7 @@ struct TestedFunctions {
     char* name;
     int* (*callback)(int[], int);
     struct Result results[INSTANCE_COUNT];
-    int resultCount;//NEEDED?
+    int resultCount;
 };
 
 #endif

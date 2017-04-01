@@ -8,8 +8,7 @@ void fill_using_generator(struct TestInstances* testInstances, int* lengths, int
 
         for (int j = 0; j < INSTANCE_LENGTHS_COUNT; j++) {
 
-            generator(&testInstances[(*testInstancesIndex)+j], lengths[j]);
-            (*testInstancesIndex) += j;
+            generator(&testInstances[(*testInstancesIndex)++], lengths[j]);
 
         }
 

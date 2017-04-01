@@ -3,7 +3,7 @@
 #include "TestedFunctions.h"
 
 char* serialize_results(struct TestedFunctions* sortingAlgos) {
-
+    
     return "asdasd";
 }
 

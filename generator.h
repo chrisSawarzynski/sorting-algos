@@ -3,6 +3,7 @@
 #include <string.h>
 #include "TestInstances.h"
 
+
 //generowanie losowych elementow
 void Random(struct TestInstances* Instance, int length)
 {
@@ -14,6 +15,7 @@ void Random(struct TestInstances* Instance, int length)
 
     for(int i = 0; i < length; i++){
         (*Instance).elements[i] = 1 + rand()%length;
+
     }
 
 }
