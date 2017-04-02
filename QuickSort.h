@@ -37,6 +37,11 @@ void QuickSort (int* Tab, int p, int r)
         QuickSort(Tab, p, q);
         QuickSort(Tab, q+1, r);
         }
-    }
+}
+
+int* QuickSortMain(int* elements, int length) {
+    QuickSort(elements, 1, length);
+    return elements;
+}
 
 #endif // QUICKSORT_H_INCLUDED

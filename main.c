@@ -36,7 +36,7 @@ int main(int argc, char *argv[]) {
     register_callback(sortingAlgos, "selectionSort", SelectionSort);
     register_callback(sortingAlgos, "InsertionSort", InsertionSort);
     register_callback(sortingAlgos, "HeapSort", HeapSort);
-    register_callback(sortingAlgos, "QuickSort", QuickSort);
+    register_callback(sortingAlgos, "QuickSort", QuickSortMain);
 
 
     benchmark_algos(sortingAlgos, testInstances);
