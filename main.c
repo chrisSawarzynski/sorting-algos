@@ -32,9 +32,9 @@ int main(int argc, char *argv[]) {
     fill_test_instances(testInstances, lengths);
 
 
-    register_callback(sortingAlgos, 0, "selectionSort", SelectionSort);
-    register_callback(sortingAlgos, 1, "InsertionSort", InsertionSort);
-    register_callback(sortingAlgos, 2, "HeapSort", HeapSort);
+    register_callback(sortingAlgos, "selectionSort", SelectionSort);
+    register_callback(sortingAlgos, "InsertionSort", InsertionSort);
+    register_callback(sortingAlgos, "HeapSort", HeapSort);
 
 
     benchmark_algos(sortingAlgos, testInstances);
