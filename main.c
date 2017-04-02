@@ -14,7 +14,6 @@
 #include "TestInstances.h"
 #include "RegisterCallback.h"
 #include "FillTestInstances.h"
-#include "SerializeResults.h"
 #include "BenchmarkAlgos.h"
 #include "SelectionSort.h"
 #include "InsertionSort.h"
@@ -40,9 +39,8 @@ int main(int argc, char *argv[]) {
 
     benchmark_algos(sortingAlgos, testInstances);
 
-    char* serializedResult = serialize_results(sortingAlgos);
 
-    save_results(serializedResult);
+    save_results(sortingAlgos);
 
     return 0;
 }
