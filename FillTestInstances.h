@@ -23,6 +23,7 @@ void fill_test_instances(struct TestInstances* testInstances, int* lengths) {
     fill_using_generator(testInstances, lengths, &testInstancesIndex, DescSort);
     fill_using_generator(testInstances, lengths, &testInstancesIndex, fnVShaped);
     fill_using_generator(testInstances, lengths, &testInstancesIndex, fnAShaped);
+    fill_using_generator(testInstances, lengths, &testInstancesIndex, Constant);
 
 }
 

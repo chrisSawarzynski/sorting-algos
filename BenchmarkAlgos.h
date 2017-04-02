@@ -29,11 +29,6 @@ void benchmark_algos( struct TestedFunctions* sortingAlgos, struct TestInstances
             sortingAlgos[i].results[j].instance_type = testInstances[j].type_name;
             sortingAlgos[i].results[j].instance_size = testInstances[j].size;
             sortingAlgos[i].results[j].time = callback_execution_time(sortingAlgos[i], testInstances[j]);
-            printf("===============================\n");
-            printf("Alg:\t%s\n", sortingAlgos[i].name);
-            printf("Typ:\t%s\n", testInstances[j].type_name);
-            printf("Len:\t%d\n", testInstances[j].size);
-            printf("Sec:\t%f\n", sortingAlgos[i].results[j].time);
         }
     }
 

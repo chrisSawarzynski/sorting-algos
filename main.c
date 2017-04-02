@@ -7,7 +7,7 @@
 
 #define CALLBACK_COUNT 3
 #define INSTANCE_LENGTHS_COUNT 15
-#define INSTANCE_TYPES 5
+#define INSTANCE_TYPES 6
 #define INSTANCE_COUNT INSTANCE_TYPES * INSTANCE_LENGTHS_COUNT
 
 #include "TestedFunctions.h"
@@ -19,6 +19,7 @@
 #include "SelectionSort.h"
 #include "InsertionSort.h"
 #include "HeapSort.h"
+#include "SaveResult.h"
 
 
 int main(int argc, char *argv[]) {
@@ -41,7 +42,7 @@ int main(int argc, char *argv[]) {
 
     char* serializedResult = serialize_results(sortingAlgos);
 
-    printf("%s", serializedResult);
+    save_results(serializedResult);
 
     return 0;
 }

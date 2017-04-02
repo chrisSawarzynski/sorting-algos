@@ -20,6 +20,25 @@ void Random(struct TestInstances* Instance, int length)
 
 }
 
+
+
+//generowanie losowych elementow
+void Constant(struct TestInstances* Instance, int length)
+{
+    (*Instance).elements = malloc(length * sizeof(int));
+
+    
+    (*Instance).type_name = strdup("Stajnia");
+    (*Instance).size = length;
+
+    for(int i = 0; i < length; i++){
+        (*Instance).elements[i] = 666;
+    }
+
+}
+
+
+
 //funkcja generujaca tablice posortowana rosnaco
 void AscSort(struct TestInstances* Instance,int length)
 {

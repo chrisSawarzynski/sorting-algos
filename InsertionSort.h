@@ -6,6 +6,7 @@ int* InsertionSort(int* Tab, int length)
     int i;
     int key;
     for(int j = 1; j < length; j++){
+        
         key = Tab[j];
         i = j - 1;
         while(i>=0 && Tab[i] > key){
