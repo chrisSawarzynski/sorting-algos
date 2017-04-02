@@ -5,7 +5,7 @@
 
 
 
-#define CALLBACK_COUNT 3
+#define CALLBACK_COUNT 4
 #define INSTANCE_LENGTHS_COUNT 15
 #define INSTANCE_TYPES 6
 #define INSTANCE_COUNT INSTANCE_TYPES * INSTANCE_LENGTHS_COUNT
@@ -18,6 +18,7 @@
 #include "SelectionSort.h"
 #include "InsertionSort.h"
 #include "HeapSort.h"
+#include "QuickSort.h"
 #include "SaveResult.h"
 
 
@@ -35,6 +36,7 @@ int main(int argc, char *argv[]) {
     register_callback(sortingAlgos, "selectionSort", SelectionSort);
     register_callback(sortingAlgos, "InsertionSort", InsertionSort);
     register_callback(sortingAlgos, "HeapSort", HeapSort);
+    register_callback(sortingAlgos, "QuickSort", QucikSort);
 
 
     benchmark_algos(sortingAlgos, testInstances);
