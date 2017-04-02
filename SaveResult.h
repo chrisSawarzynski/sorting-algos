@@ -1,7 +1,5 @@
 #ifndef SAVE_RESULT
 #define SAVE_RESULT
-#include <conio.h>
-#include <conio.h>
 
 void save_results(struct TestedFunctions* sortingAlgos) {
     FILE * output_file = fopen("result.txt", "w");
