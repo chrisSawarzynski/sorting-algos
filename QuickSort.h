@@ -8,7 +8,7 @@ int Partition(int* Tab, int p, int r)
     int j = r + 1;
     int temp = 0;
 
-    while(true){
+    while(1){
        do{
             j = j - 1;
        }while(Tab[j] > x);
