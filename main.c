@@ -5,8 +5,8 @@
 
 
 
-#define CALLBACK_COUNT 4
-#define INSTANCE_LENGTHS_COUNT 15
+#define CALLBACK_COUNT 5
+#define INSTANCE_LENGTHS_COUNT 8
 #define INSTANCE_TYPES 6
 #define INSTANCE_COUNT INSTANCE_TYPES * INSTANCE_LENGTHS_COUNT
 
@@ -19,6 +19,7 @@
 #include "InsertionSort.h"
 #include "HeapSort.h"
 #include "QuickSort.h"
+#include "qsi.h"
 #include "SaveResult.h"
 
 
@@ -28,7 +29,7 @@ int main(int argc, char *argv[]) {
     struct TestedFunctions sortingAlgos[CALLBACK_COUNT];
     struct TestInstances testInstances[INSTANCE_COUNT];
 
-    int lengths[INSTANCE_LENGTHS_COUNT] = {10, 50, 100, 500, 1000,2000, 4000, 5000, 7000, 10000, 20000, 30000, 40000, 50000, 60000};
+    int lengths[INSTANCE_LENGTHS_COUNT] = {1000, 10000, 20000, 30000, 40000, 50000, 60000, 700000};
 
     fill_test_instances(testInstances, lengths);
 
@@ -37,6 +38,7 @@ int main(int argc, char *argv[]) {
     register_callback(sortingAlgos, "InsertionSort", InsertionSort);
     register_callback(sortingAlgos, "HeapSort", HeapSort);
     register_callback(sortingAlgos, "QuickSort", QuickSortMain);
+    register_callback(sortingAlgos, "QuickSort Iteracyjny", qsi);
 
 
     benchmark_algos(sortingAlgos, testInstances);

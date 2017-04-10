@@ -10,6 +10,7 @@ struct Stos
     int p;
 };
 
+
 void QuickSortIterative(int tab[],int n,struct Stos stos[])
 {
     int i, j, l, p;
@@ -56,6 +57,15 @@ void QuickSortIterative(int tab[],int n,struct Stos stos[])
         while(l<p);
     }
     while(aktStos>=0);
+}
+
+
+int* qsi(int* elements, int length) {
+    struct Stos stos[1000 + length/1000];
+    
+    QuickSortIterative(elements, length, stos);
+
+    return elements;
 }
 
 #endif // QSI_H_INCLUDED
