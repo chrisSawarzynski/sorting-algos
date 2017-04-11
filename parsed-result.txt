@@ -1,4 +1,5 @@
 selectionSort	Losowa
+Elementy	Czas(s)
 10	0.000002
 50	0.000008
 100	0.000027
@@ -15,6 +16,7 @@ selectionSort	Losowa
 50000	4.704966
 60000	6.797593
 selectionSort	Posortowana
+Elementy	Czas(s)
 10	0.000001
 50	0.000006
 100	0.000021
@@ -31,6 +33,7 @@ selectionSort	Posortowana
 50000	4.706037
 60000	6.752892
 selectionSort	Odwrotnie posortowana
+Elementy	Czas(s)
 10	0.000001
 50	0.000006
 100	0.000019
@@ -47,6 +50,7 @@ selectionSort	Odwrotnie posortowana
 50000	4.679560
 60000	6.785069
 selectionSort	V-ksztaltna
+Elementy	Czas(s)
 10	0.000001
 50	0.000008
 100	0.000025
@@ -63,6 +67,7 @@ selectionSort	V-ksztaltna
 50000	4.850115
 60000	7.022853
 selectionSort	A-ksztaltna
+Elementy	Czas(s)
 10	0.000001
 50	0.000007
 100	0.000023
@@ -79,6 +84,7 @@ selectionSort	A-ksztaltna
 50000	4.918608
 60000	7.074371
 selectionSort	Stajnia
+Elementy	Czas(s)
 10	0.000001
 50	0.000006
 100	0.000021
@@ -95,6 +101,7 @@ selectionSort	Stajnia
 50000	4.731462
 60000	6.935547
 InsertionSort	Losowa
+Elementy	Czas(s)
 10	0.000000
 50	0.000005
 100	0.000015
@@ -111,6 +118,7 @@ InsertionSort	Losowa
 50000	3.510567
 60000	5.013317
 InsertionSort	Posortowana
+Elementy	Czas(s)
 10	0.000000
 50	0.000001
 100	0.000001
@@ -127,6 +135,7 @@ InsertionSort	Posortowana
 50000	0.000412
 60000	0.000487
 InsertionSort	Odwrotnie posortowana
+Elementy	Czas(s)
 10	0.000000
 50	0.000000
 100	0.000001
@@ -143,6 +152,7 @@ InsertionSort	Odwrotnie posortowana
 50000	0.000407
 60000	0.000487
 InsertionSort	V-ksztaltna
+Elementy	Czas(s)
 10	0.000001
 50	0.000005
 100	0.000016
@@ -159,6 +169,7 @@ InsertionSort	V-ksztaltna
 50000	3.468145
 60000	5.005076
 InsertionSort	A-ksztaltna
+Elementy	Czas(s)
 10	0.000001
 50	0.000005
 100	0.000016
@@ -175,6 +186,7 @@ InsertionSort	A-ksztaltna
 50000	3.544654
 60000	5.012438
 InsertionSort	Stajnia
+Elementy	Czas(s)
 10	0.000000
 50	0.000001
 100	0.000001
@@ -191,6 +203,7 @@ InsertionSort	Stajnia
 50000	0.000374
 60000	0.000447
 HeapSort	Losowa
+Elementy	Czas(s)
 10	0.000002
 50	0.000008
 100	0.000019
@@ -207,6 +220,7 @@ HeapSort	Losowa
 50000	0.019976
 60000	0.024226
 HeapSort	Posortowana
+Elementy	Czas(s)
 10	0.000002
 50	0.000009
 100	0.000020
@@ -223,6 +237,7 @@ HeapSort	Posortowana
 50000	0.020325
 60000	0.025180
 HeapSort	Odwrotnie posortowana
+Elementy	Czas(s)
 10	0.000001
 50	0.000010
 100	0.000023
@@ -239,6 +254,7 @@ HeapSort	Odwrotnie posortowana
 50000	0.020835
 60000	0.024399
 HeapSort	V-ksztaltna
+Elementy	Czas(s)
 10	0.000002
 50	0.000009
 100	0.000017
@@ -255,6 +271,7 @@ HeapSort	V-ksztaltna
 50000	0.019224
 60000	0.023001
 HeapSort	A-ksztaltna
+Elementy	Czas(s)
 10	0.000002
 50	0.000009
 100	0.000019
@@ -271,6 +288,7 @@ HeapSort	A-ksztaltna
 50000	0.020256
 60000	0.025378
 HeapSort	Stajnia
+Elementy	Czas(s)
 10	0.000001
 50	0.000002
 100	0.000003
@@ -287,6 +305,7 @@ HeapSort	Stajnia
 50000	0.001465
 60000	0.001852
 QuickSort	Losowa
+Elementy	Czas(s)
 10	0.000001
 50	0.000004
 100	0.000011
@@ -303,6 +322,7 @@ QuickSort	Losowa
 50000	0.009066
 60000	0.011244
 QuickSort	Posortowana
+Elementy	Czas(s)
 10	0.000001
 50	0.000004
 100	0.000007
@@ -319,6 +339,7 @@ QuickSort	Posortowana
 50000	0.004633
 60000	0.005373
 QuickSort	Odwrotnie posortowana
+Elementy	Czas(s)
 10	0.000001
 50	0.000003
 100	0.000006
@@ -335,6 +356,7 @@ QuickSort	Odwrotnie posortowana
 50000	0.004628
 60000	0.004884
 QuickSort	V-ksztaltna
+Elementy	Czas(s)
 10	0.000001
 50	0.000006
 100	0.000014
@@ -351,6 +373,7 @@ QuickSort	V-ksztaltna
 50000	2.171756
 60000	3.112915
 QuickSort	A-ksztaltna
+Elementy	Czas(s)
 10	0.000001
 50	0.000005
 100	0.000011
@@ -367,6 +390,7 @@ QuickSort	A-ksztaltna
 50000	1.245876
 60000	2.137356
 QuickSort	Stajnia
+Elementy	Czas(s)
 10	0.000001
 50	0.000003
 100	0.000006
@@ -383,6 +407,7 @@ QuickSort	Stajnia
 50000	0.005299
 60000	0.006505
 QuickSort Iteracyjny	Losowa
+Elementy	Czas(s)
 10	0.000000
 50	0.000001
 100	0.000001
@@ -399,6 +424,7 @@ QuickSort Iteracyjny	Losowa
 50000	0.000000
 60000	0.000000
 QuickSort Iteracyjny	Posortowana
+Elementy	Czas(s)
 10	0.000000
 50	0.000000
 100	0.000000
@@ -415,6 +441,7 @@ QuickSort Iteracyjny	Posortowana
 50000	0.000001
 60000	0.000000
 QuickSort Iteracyjny	Odwrotnie posortowana
+Elementy	Czas(s)
 10	0.000000
 50	0.000000
 100	0.000000
@@ -431,6 +458,7 @@ QuickSort Iteracyjny	Odwrotnie posortowana
 50000	0.000000
 60000	0.000000
 QuickSort Iteracyjny	V-ksztaltna
+Elementy	Czas(s)
 10	0.000000
 50	0.000000
 100	0.000000
@@ -447,6 +475,7 @@ QuickSort Iteracyjny	V-ksztaltna
 50000	0.000000
 60000	0.000001
 QuickSort Iteracyjny	A-ksztaltna
+Elementy	Czas(s)
 10	0.000001
 50	0.000001
 100	0.000001
@@ -463,6 +492,7 @@ QuickSort Iteracyjny	A-ksztaltna
 50000	0.000000
 60000	0.000000
 QuickSort Iteracyjny	Stajnia
+Elementy	Czas(s)
 10	0.000000
 50	0.000000
 100	0.000000
