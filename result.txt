@@ -1,0 +1,455 @@
+selectionSort
+Losowa	10	0.000002
+Losowa	50	0.000008
+Losowa	100	0.000027
+Losowa	500	0.000564
+Losowa	1000	0.001830
+Losowa	2000	0.007544
+Losowa	4000	0.030791
+Losowa	5000	0.046987
+Losowa	7000	0.092246
+Losowa	10000	0.188231
+Losowa	20000	0.754675
+Losowa	30000	1.700850
+Losowa	40000	2.995968
+Losowa	50000	4.704966
+Losowa	60000	6.797593
+Posortowana	10	0.000001
+Posortowana	50	0.000006
+Posortowana	100	0.000021
+Posortowana	500	0.000474
+Posortowana	1000	0.001983
+Posortowana	2000	0.008341
+Posortowana	4000	0.030010
+Posortowana	5000	0.047034
+Posortowana	7000	0.091948
+Posortowana	10000	0.186311
+Posortowana	20000	0.754069
+Posortowana	30000	1.700979
+Posortowana	40000	3.012348
+Posortowana	50000	4.706037
+Posortowana	60000	6.752892
+Odwrotnie posortowana	10	0.000001
+Odwrotnie posortowana	50	0.000006
+Odwrotnie posortowana	100	0.000019
+Odwrotnie posortowana	500	0.000472
+Odwrotnie posortowana	1000	0.001944
+Odwrotnie posortowana	2000	0.007506
+Odwrotnie posortowana	4000	0.029765
+Odwrotnie posortowana	5000	0.046367
+Odwrotnie posortowana	7000	0.091260
+Odwrotnie posortowana	10000	0.189172
+Odwrotnie posortowana	20000	0.748400
+Odwrotnie posortowana	30000	1.684051
+Odwrotnie posortowana	40000	3.003403
+Odwrotnie posortowana	50000	4.679560
+Odwrotnie posortowana	60000	6.785069
+V-ksztaltna	10	0.000001
+V-ksztaltna	50	0.000008
+V-ksztaltna	100	0.000025
+V-ksztaltna	500	0.000506
+V-ksztaltna	1000	0.001976
+V-ksztaltna	2000	0.007616
+V-ksztaltna	4000	0.031302
+V-ksztaltna	5000	0.048044
+V-ksztaltna	7000	0.094032
+V-ksztaltna	10000	0.190542
+V-ksztaltna	20000	0.766912
+V-ksztaltna	30000	1.739961
+V-ksztaltna	40000	3.092695
+V-ksztaltna	50000	4.850115
+V-ksztaltna	60000	7.022853
+A-ksztaltna	10	0.000001
+A-ksztaltna	50	0.000007
+A-ksztaltna	100	0.000023
+A-ksztaltna	500	0.000493
+A-ksztaltna	1000	0.001963
+A-ksztaltna	2000	0.008231
+A-ksztaltna	4000	0.030674
+A-ksztaltna	5000	0.048208
+A-ksztaltna	7000	0.097873
+A-ksztaltna	10000	0.198294
+A-ksztaltna	20000	0.791039
+A-ksztaltna	30000	1.759934
+A-ksztaltna	40000	3.148254
+A-ksztaltna	50000	4.918608
+A-ksztaltna	60000	7.074371
+Stajnia	10	0.000001
+Stajnia	50	0.000006
+Stajnia	100	0.000021
+Stajnia	500	0.000477
+Stajnia	1000	0.001880
+Stajnia	2000	0.007465
+Stajnia	4000	0.029754
+Stajnia	5000	0.046658
+Stajnia	7000	0.091659
+Stajnia	10000	0.194902
+Stajnia	20000	0.765314
+Stajnia	30000	1.719913
+Stajnia	40000	3.045303
+Stajnia	50000	4.731462
+Stajnia	60000	6.935547
+InsertionSort
+Losowa	10	0.000000
+Losowa	50	0.000005
+Losowa	100	0.000015
+Losowa	500	0.000349
+Losowa	1000	0.001448
+Losowa	2000	0.005637
+Losowa	4000	0.023290
+Losowa	5000	0.035608
+Losowa	7000	0.069940
+Losowa	10000	0.137500
+Losowa	20000	0.567085
+Losowa	30000	1.261543
+Losowa	40000	2.230652
+Losowa	50000	3.510567
+Losowa	60000	5.013317
+Posortowana	10	0.000000
+Posortowana	50	0.000001
+Posortowana	100	0.000001
+Posortowana	500	0.000004
+Posortowana	1000	0.000008
+Posortowana	2000	0.000015
+Posortowana	4000	0.000030
+Posortowana	5000	0.000038
+Posortowana	7000	0.000053
+Posortowana	10000	0.000075
+Posortowana	20000	0.000150
+Posortowana	30000	0.000224
+Posortowana	40000	0.000300
+Posortowana	50000	0.000412
+Posortowana	60000	0.000487
+Odwrotnie posortowana	10	0.000000
+Odwrotnie posortowana	50	0.000000
+Odwrotnie posortowana	100	0.000001
+Odwrotnie posortowana	500	0.000004
+Odwrotnie posortowana	1000	0.000009
+Odwrotnie posortowana	2000	0.000016
+Odwrotnie posortowana	4000	0.000033
+Odwrotnie posortowana	5000	0.000041
+Odwrotnie posortowana	7000	0.000057
+Odwrotnie posortowana	10000	0.000082
+Odwrotnie posortowana	20000	0.000162
+Odwrotnie posortowana	30000	0.000244
+Odwrotnie posortowana	40000	0.000326
+Odwrotnie posortowana	50000	0.000407
+Odwrotnie posortowana	60000	0.000487
+V-ksztaltna	10	0.000001
+V-ksztaltna	50	0.000005
+V-ksztaltna	100	0.000016
+V-ksztaltna	500	0.000370
+V-ksztaltna	1000	0.001420
+V-ksztaltna	2000	0.005764
+V-ksztaltna	4000	0.022928
+V-ksztaltna	5000	0.034981
+V-ksztaltna	7000	0.071042
+V-ksztaltna	10000	0.141560
+V-ksztaltna	20000	0.558812
+V-ksztaltna	30000	1.260888
+V-ksztaltna	40000	2.224907
+V-ksztaltna	50000	3.468145
+V-ksztaltna	60000	5.005076
+A-ksztaltna	10	0.000001
+A-ksztaltna	50	0.000005
+A-ksztaltna	100	0.000016
+A-ksztaltna	500	0.000390
+A-ksztaltna	1000	0.001551
+A-ksztaltna	2000	0.005665
+A-ksztaltna	4000	0.022316
+A-ksztaltna	5000	0.036553
+A-ksztaltna	7000	0.071019
+A-ksztaltna	10000	0.143113
+A-ksztaltna	20000	0.570053
+A-ksztaltna	30000	1.275852
+A-ksztaltna	40000	2.286672
+A-ksztaltna	50000	3.544654
+A-ksztaltna	60000	5.012438
+Stajnia	10	0.000000
+Stajnia	50	0.000001
+Stajnia	100	0.000001
+Stajnia	500	0.000004
+Stajnia	1000	0.000008
+Stajnia	2000	0.000017
+Stajnia	4000	0.000033
+Stajnia	5000	0.000040
+Stajnia	7000	0.000057
+Stajnia	10000	0.000083
+Stajnia	20000	0.000163
+Stajnia	30000	0.000241
+Stajnia	40000	0.000300
+Stajnia	50000	0.000374
+Stajnia	60000	0.000447
+HeapSort
+Losowa	10	0.000002
+Losowa	50	0.000008
+Losowa	100	0.000019
+Losowa	500	0.000111
+Losowa	1000	0.000243
+Losowa	2000	0.000576
+Losowa	4000	0.001239
+Losowa	5000	0.001487
+Losowa	7000	0.002165
+Losowa	10000	0.003434
+Losowa	20000	0.007344
+Losowa	30000	0.011640
+Losowa	40000	0.015109
+Losowa	50000	0.019976
+Losowa	60000	0.024226
+Posortowana	10	0.000002
+Posortowana	50	0.000009
+Posortowana	100	0.000020
+Posortowana	500	0.000117
+Posortowana	1000	0.000256
+Posortowana	2000	0.000557
+Posortowana	4000	0.001203
+Posortowana	5000	0.001551
+Posortowana	7000	0.002250
+Posortowana	10000	0.003175
+Posortowana	20000	0.007008
+Posortowana	30000	0.010806
+Posortowana	40000	0.015146
+Posortowana	50000	0.020325
+Posortowana	60000	0.025180
+Odwrotnie posortowana	10	0.000001
+Odwrotnie posortowana	50	0.000010
+Odwrotnie posortowana	100	0.000023
+Odwrotnie posortowana	500	0.000132
+Odwrotnie posortowana	1000	0.000292
+Odwrotnie posortowana	2000	0.000611
+Odwrotnie posortowana	4000	0.001204
+Odwrotnie posortowana	5000	0.001437
+Odwrotnie posortowana	7000	0.002124
+Odwrotnie posortowana	10000	0.003591
+Odwrotnie posortowana	20000	0.007768
+Odwrotnie posortowana	30000	0.010815
+Odwrotnie posortowana	40000	0.015548
+Odwrotnie posortowana	50000	0.020835
+Odwrotnie posortowana	60000	0.024399
+V-ksztaltna	10	0.000002
+V-ksztaltna	50	0.000009
+V-ksztaltna	100	0.000017
+V-ksztaltna	500	0.000108
+V-ksztaltna	1000	0.000239
+V-ksztaltna	2000	0.000551
+V-ksztaltna	4000	0.001251
+V-ksztaltna	5000	0.001581
+V-ksztaltna	7000	0.002333
+V-ksztaltna	10000	0.003433
+V-ksztaltna	20000	0.006648
+V-ksztaltna	30000	0.011020
+V-ksztaltna	40000	0.014827
+V-ksztaltna	50000	0.019224
+V-ksztaltna	60000	0.023001
+A-ksztaltna	10	0.000002
+A-ksztaltna	50	0.000009
+A-ksztaltna	100	0.000019
+A-ksztaltna	500	0.000115
+A-ksztaltna	1000	0.000258
+A-ksztaltna	2000	0.000556
+A-ksztaltna	4000	0.001224
+A-ksztaltna	5000	0.001681
+A-ksztaltna	7000	0.002445
+A-ksztaltna	10000	0.003583
+A-ksztaltna	20000	0.006917
+A-ksztaltna	30000	0.011531
+A-ksztaltna	40000	0.015700
+A-ksztaltna	50000	0.020256
+A-ksztaltna	60000	0.025378
+Stajnia	10	0.000001
+Stajnia	50	0.000002
+Stajnia	100	0.000003
+Stajnia	500	0.000015
+Stajnia	1000	0.000035
+Stajnia	2000	0.000062
+Stajnia	4000	0.000136
+Stajnia	5000	0.000144
+Stajnia	7000	0.000196
+Stajnia	10000	0.000319
+Stajnia	20000	0.000613
+Stajnia	30000	0.000829
+Stajnia	40000	0.001096
+Stajnia	50000	0.001465
+Stajnia	60000	0.001852
+QuickSort
+Losowa	10	0.000001
+Losowa	50	0.000004
+Losowa	100	0.000011
+Losowa	500	0.000061
+Losowa	1000	0.000131
+Losowa	2000	0.000281
+Losowa	4000	0.000591
+Losowa	5000	0.000756
+Losowa	7000	0.001087
+Losowa	10000	0.001601
+Losowa	20000	0.003414
+Losowa	30000	0.005398
+Losowa	40000	0.007240
+Losowa	50000	0.009066
+Losowa	60000	0.011244
+Posortowana	10	0.000001
+Posortowana	50	0.000004
+Posortowana	100	0.000007
+Posortowana	500	0.000038
+Posortowana	1000	0.000074
+Posortowana	2000	0.000156
+Posortowana	4000	0.000328
+Posortowana	5000	0.000388
+Posortowana	7000	0.000566
+Posortowana	10000	0.000822
+Posortowana	20000	0.001685
+Posortowana	30000	0.002253
+Posortowana	40000	0.003278
+Posortowana	50000	0.004633
+Posortowana	60000	0.005373
+Odwrotnie posortowana	10	0.000001
+Odwrotnie posortowana	50	0.000003
+Odwrotnie posortowana	100	0.000006
+Odwrotnie posortowana	500	0.000031
+Odwrotnie posortowana	1000	0.000063
+Odwrotnie posortowana	2000	0.000132
+Odwrotnie posortowana	4000	0.000278
+Odwrotnie posortowana	5000	0.000322
+Odwrotnie posortowana	7000	0.000483
+Odwrotnie posortowana	10000	0.000747
+Odwrotnie posortowana	20000	0.001572
+Odwrotnie posortowana	30000	0.002447
+Odwrotnie posortowana	40000	0.003311
+Odwrotnie posortowana	50000	0.004628
+Odwrotnie posortowana	60000	0.004884
+V-ksztaltna	10	0.000001
+V-ksztaltna	50	0.000006
+V-ksztaltna	100	0.000014
+V-ksztaltna	500	0.000243
+V-ksztaltna	1000	0.000915
+V-ksztaltna	2000	0.003562
+V-ksztaltna	4000	0.013801
+V-ksztaltna	5000	0.021529
+V-ksztaltna	7000	0.042807
+V-ksztaltna	10000	0.086238
+V-ksztaltna	20000	0.346614
+V-ksztaltna	30000	0.779341
+V-ksztaltna	40000	1.382147
+V-ksztaltna	50000	2.171756
+V-ksztaltna	60000	3.112915
+A-ksztaltna	10	0.000001
+A-ksztaltna	50	0.000005
+A-ksztaltna	100	0.000011
+A-ksztaltna	500	0.000071
+A-ksztaltna	1000	0.000327
+A-ksztaltna	2000	0.001141
+A-ksztaltna	4000	0.004468
+A-ksztaltna	5000	0.014089
+A-ksztaltna	7000	0.022225
+A-ksztaltna	10000	0.040298
+A-ksztaltna	20000	0.091459
+A-ksztaltna	30000	0.352776
+A-ksztaltna	40000	0.777102
+A-ksztaltna	50000	1.245876
+A-ksztaltna	60000	2.137356
+Stajnia	10	0.000001
+Stajnia	50	0.000003
+Stajnia	100	0.000006
+Stajnia	500	0.000035
+Stajnia	1000	0.000075
+Stajnia	2000	0.000177
+Stajnia	4000	0.000362
+Stajnia	5000	0.000432
+Stajnia	7000	0.000627
+Stajnia	10000	0.000935
+Stajnia	20000	0.001907
+Stajnia	30000	0.002915
+Stajnia	40000	0.004078
+Stajnia	50000	0.005299
+Stajnia	60000	0.006505
+QuickSort Iteracyjny
+Losowa	10	0.000000
+Losowa	50	0.000001
+Losowa	100	0.000001
+Losowa	500	0.000000
+Losowa	1000	0.000001
+Losowa	2000	0.000000
+Losowa	4000	0.000001
+Losowa	5000	0.000000
+Losowa	7000	0.000001
+Losowa	10000	0.000000
+Losowa	20000	0.000001
+Losowa	30000	0.000001
+Losowa	40000	0.000001
+Losowa	50000	0.000000
+Losowa	60000	0.000000
+Posortowana	10	0.000000
+Posortowana	50	0.000000
+Posortowana	100	0.000000
+Posortowana	500	0.000000
+Posortowana	1000	0.000000
+Posortowana	2000	0.000001
+Posortowana	4000	0.000001
+Posortowana	5000	0.000001
+Posortowana	7000	0.000001
+Posortowana	10000	0.000000
+Posortowana	20000	0.000000
+Posortowana	30000	0.000000
+Posortowana	40000	0.000000
+Posortowana	50000	0.000001
+Posortowana	60000	0.000000
+Odwrotnie posortowana	10	0.000000
+Odwrotnie posortowana	50	0.000000
+Odwrotnie posortowana	100	0.000000
+Odwrotnie posortowana	500	0.000000
+Odwrotnie posortowana	1000	0.000000
+Odwrotnie posortowana	2000	0.000000
+Odwrotnie posortowana	4000	0.000000
+Odwrotnie posortowana	5000	0.000000
+Odwrotnie posortowana	7000	0.000000
+Odwrotnie posortowana	10000	0.000000
+Odwrotnie posortowana	20000	0.000000
+Odwrotnie posortowana	30000	0.000001
+Odwrotnie posortowana	40000	0.000000
+Odwrotnie posortowana	50000	0.000000
+Odwrotnie posortowana	60000	0.000000
+V-ksztaltna	10	0.000000
+V-ksztaltna	50	0.000000
+V-ksztaltna	100	0.000000
+V-ksztaltna	500	0.000000
+V-ksztaltna	1000	0.000000
+V-ksztaltna	2000	0.000000
+V-ksztaltna	4000	0.000000
+V-ksztaltna	5000	0.000000
+V-ksztaltna	7000	0.000001
+V-ksztaltna	10000	0.000001
+V-ksztaltna	20000	0.000001
+V-ksztaltna	30000	0.000000
+V-ksztaltna	40000	0.000000
+V-ksztaltna	50000	0.000000
+V-ksztaltna	60000	0.000001
+A-ksztaltna	10	0.000001
+A-ksztaltna	50	0.000001
+A-ksztaltna	100	0.000001
+A-ksztaltna	500	0.000000
+A-ksztaltna	1000	0.000001
+A-ksztaltna	2000	0.000000
+A-ksztaltna	4000	0.000000
+A-ksztaltna	5000	0.000001
+A-ksztaltna	7000	0.000000
+A-ksztaltna	10000	0.000001
+A-ksztaltna	20000	0.000001
+A-ksztaltna	30000	0.000001
+A-ksztaltna	40000	0.000000
+A-ksztaltna	50000	0.000000
+A-ksztaltna	60000	0.000000
+Stajnia	10	0.000000
+Stajnia	50	0.000000
+Stajnia	100	0.000000
+Stajnia	500	0.000000
+Stajnia	1000	0.000001
+Stajnia	2000	0.000000
+Stajnia	4000	0.000001
+Stajnia	5000	0.000000
+Stajnia	7000	0.000001
+Stajnia	10000	0.000000
+Stajnia	20000	0.000000
+Stajnia	30000	0.000001
+Stajnia	40000	0.000000
+Stajnia	50000	0.000001
+Stajnia	60000	0.000001
