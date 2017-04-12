@@ -59,9 +59,9 @@ void DescSort(struct TestInstances* Instance,int length)
 
     (*Instance).type_name = strdup("Odwrotnie posortowana");
     (*Instance).size = length;
-
-    for(int i = length - 1; i >= 0; i--){
-        (*Instance).elements[i] = i;
+    
+    for(int i = length - 1, x = 0; i >= 0; i--, x++){
+        (*Instance).elements[i] = 0;
     }
 
 }
