@@ -61,7 +61,7 @@ void QuickSortIterative(int tab[],int n,struct Stos stos[])
 
 
 int* qsi(int* elements, int length) {
-    struct Stos stos[1000 + length/1000];
+    struct Stos stos[1000 + length];
     
     QuickSortIterative(elements, length, stos);
 

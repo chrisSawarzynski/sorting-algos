@@ -22,7 +22,7 @@ def serializeData(algos):
     for algo in algos:
         for instanceType in algo['instanceTypes']:
             result += algo['algo'] + "\t" + instanceType['instanceType'] + "\n"
-            result += "Elementy\tCzas(s)\n"
+            # result += "Elementy\tCzas(s)\n"
             for res in instanceType['results']:
                 result += res['length'] + "\t" + res['time'] + "\n"
     return result

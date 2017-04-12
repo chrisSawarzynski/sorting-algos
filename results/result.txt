@@ -1,0 +1,455 @@
+HeapSort
+Losowa	100000	0.043992
+Losowa	200000	0.100203
+Losowa	300000	0.160219
+Losowa	400000	0.220975
+Losowa	500000	0.282552
+Losowa	600000	0.341574
+Losowa	700000	0.409348
+Losowa	800000	0.477478
+Losowa	900000	0.544911
+Losowa	1000000	0.611035
+Losowa	1100000	0.678870
+Losowa	1200000	0.753030
+Losowa	1300000	0.826889
+Losowa	1400000	0.900303
+Losowa	1500000	0.974738
+Posortowana	100000	0.042570
+Posortowana	200000	0.093418
+Posortowana	300000	0.147844
+Posortowana	400000	0.202302
+Posortowana	500000	0.258288
+Posortowana	600000	0.317515
+Posortowana	700000	0.372928
+Posortowana	800000	0.430586
+Posortowana	900000	0.490764
+Posortowana	1000000	0.546665
+Posortowana	1100000	0.606301
+Posortowana	1200000	0.664828
+Posortowana	1300000	0.732091
+Posortowana	1400000	0.791394
+Posortowana	1500000	0.849268
+Odwrotnie posortowana	100000	0.041860
+Odwrotnie posortowana	200000	0.095523
+Odwrotnie posortowana	300000	0.146860
+Odwrotnie posortowana	400000	0.203266
+Odwrotnie posortowana	500000	0.258179
+Odwrotnie posortowana	600000	0.315158
+Odwrotnie posortowana	700000	0.372719
+Odwrotnie posortowana	800000	0.429611
+Odwrotnie posortowana	900000	0.490320
+Odwrotnie posortowana	1000000	0.547594
+Odwrotnie posortowana	1100000	0.609225
+Odwrotnie posortowana	1200000	0.670141
+Odwrotnie posortowana	1300000	0.730644
+Odwrotnie posortowana	1400000	0.790510
+Odwrotnie posortowana	1500000	0.851106
+V-ksztaltna	100000	0.040570
+V-ksztaltna	200000	0.089863
+V-ksztaltna	300000	0.140463
+V-ksztaltna	400000	0.192603
+V-ksztaltna	500000	0.248528
+V-ksztaltna	600000	0.301347
+V-ksztaltna	700000	0.355403
+V-ksztaltna	800000	0.415282
+V-ksztaltna	900000	0.478721
+V-ksztaltna	1000000	0.527845
+V-ksztaltna	1100000	0.585035
+V-ksztaltna	1200000	0.621293
+V-ksztaltna	1300000	0.691015
+V-ksztaltna	1400000	0.730740
+V-ksztaltna	1500000	0.803718
+A-ksztaltna	100000	0.044816
+A-ksztaltna	200000	0.094299
+A-ksztaltna	300000	0.147091
+A-ksztaltna	400000	0.203698
+A-ksztaltna	500000	0.252346
+A-ksztaltna	600000	0.305624
+A-ksztaltna	700000	0.368339
+A-ksztaltna	800000	0.423985
+A-ksztaltna	900000	0.481833
+A-ksztaltna	1000000	0.534528
+A-ksztaltna	1100000	0.591959
+A-ksztaltna	1200000	0.656023
+A-ksztaltna	1300000	0.710932
+A-ksztaltna	1400000	0.783618
+A-ksztaltna	1500000	0.836650
+Stabilna	100000	0.002912
+Stabilna	200000	0.005955
+Stabilna	300000	0.007889
+Stabilna	400000	0.010900
+Stabilna	500000	0.013703
+Stabilna	600000	0.015950
+Stabilna	700000	0.019247
+Stabilna	800000	0.023876
+Stabilna	900000	0.026733
+Stabilna	1000000	0.027860
+Stabilna	1100000	0.032156
+Stabilna	1200000	0.035628
+Stabilna	1300000	0.037879
+Stabilna	1400000	0.040572
+Stabilna	1500000	0.043340
+selectionSort
+Losowa	10000	0.197839
+Losowa	20000	0.795910
+Losowa	30000	1.778860
+Losowa	40000	3.193999
+Losowa	50000	4.890229
+Losowa	60000	7.152523
+Losowa	70000	9.608271
+Losowa	80000	12.515113
+Losowa	90000	15.535553
+Losowa	100000	19.503544
+Losowa	110000	23.682189
+Losowa	120000	27.876706
+Losowa	130000	32.479332
+Losowa	140000	38.526610
+Losowa	150000	45.032499
+Posortowana	10000	0.195618
+Posortowana	20000	0.780295
+Posortowana	30000	1.778170
+Posortowana	40000	3.137050
+Posortowana	50000	4.898086
+Posortowana	60000	7.059038
+Posortowana	70000	9.632247
+Posortowana	80000	12.903078
+Posortowana	90000	16.430280
+Posortowana	100000	20.075034
+Posortowana	110000	23.513602
+Posortowana	120000	27.825224
+Posortowana	130000	32.451526
+Posortowana	140000	37.722842
+Posortowana	150000	43.294567
+Odwrotnie posortowana	10000	0.188509
+Odwrotnie posortowana	20000	0.752519
+Odwrotnie posortowana	30000	1.705794
+Odwrotnie posortowana	40000	3.063650
+Odwrotnie posortowana	50000	4.797945
+Odwrotnie posortowana	60000	6.905713
+Odwrotnie posortowana	70000	9.369462
+Odwrotnie posortowana	80000	12.332452
+Odwrotnie posortowana	90000	15.643307
+Odwrotnie posortowana	100000	19.329757
+Odwrotnie posortowana	110000	23.366120
+Odwrotnie posortowana	120000	27.826887
+Odwrotnie posortowana	130000	34.352129
+Odwrotnie posortowana	140000	39.297033
+Odwrotnie posortowana	150000	45.614833
+V-ksztaltna	10000	0.197087
+V-ksztaltna	20000	0.834989
+V-ksztaltna	30000	1.865962
+V-ksztaltna	40000	3.190621
+V-ksztaltna	50000	5.093803
+V-ksztaltna	60000	7.644572
+V-ksztaltna	70000	10.444317
+V-ksztaltna	80000	13.359099
+V-ksztaltna	90000	16.652533
+V-ksztaltna	100000	20.881556
+V-ksztaltna	110000	25.066755
+V-ksztaltna	120000	29.164415
+V-ksztaltna	130000	34.400626
+V-ksztaltna	140000	40.728581
+V-ksztaltna	150000	46.633188
+A-ksztaltna	10000	0.210248
+A-ksztaltna	20000	0.852333
+A-ksztaltna	30000	1.909409
+A-ksztaltna	40000	3.433199
+A-ksztaltna	50000	5.246721
+A-ksztaltna	60000	7.325056
+A-ksztaltna	70000	9.989420
+A-ksztaltna	80000	13.401545
+A-ksztaltna	90000	17.173193
+A-ksztaltna	100000	21.459607
+A-ksztaltna	110000	25.940928
+A-ksztaltna	120000	30.634361
+A-ksztaltna	130000	35.518867
+A-ksztaltna	140000	39.537141
+A-ksztaltna	150000	46.392178
+Stabilna	10000	0.194193
+Stabilna	20000	0.791667
+Stabilna	30000	1.750528
+Stabilna	40000	3.160159
+Stabilna	50000	4.908988
+Stabilna	60000	7.014318
+Stabilna	70000	9.600925
+Stabilna	80000	12.550130
+Stabilna	90000	15.496863
+Stabilna	100000	19.444585
+Stabilna	110000	23.381867
+Stabilna	120000	28.552846
+Stabilna	130000	34.630295
+Stabilna	140000	40.938029
+Stabilna	150000	46.026004
+InsertionSort
+Losowa	10000	0.173253
+Losowa	20000	0.590267
+Losowa	30000	1.659015
+Losowa	40000	3.029583
+Losowa	50000	4.064970
+Losowa	60000	5.437138
+Losowa	70000	7.297033
+Losowa	80000	9.804476
+Losowa	90000	12.976721
+Losowa	100000	15.203565
+Losowa	110000	19.187126
+Losowa	120000	22.510687
+Losowa	130000	26.359938
+Losowa	140000	30.786535
+Losowa	150000	34.375017
+Posortowana	10000	0.000079
+Posortowana	20000	0.000159
+Posortowana	30000	0.000323
+Posortowana	40000	0.000347
+Posortowana	50000	0.000441
+Posortowana	60000	0.000662
+Posortowana	70000	0.000530
+Posortowana	80000	0.000831
+Posortowana	90000	0.000714
+Posortowana	100000	0.001227
+Posortowana	110000	0.000804
+Posortowana	120000	0.000939
+Posortowana	130000	0.001567
+Posortowana	140000	0.001628
+Posortowana	150000	0.001311
+Odwrotnie posortowana	10000	0.000079
+Odwrotnie posortowana	20000	0.000155
+Odwrotnie posortowana	30000	0.000276
+Odwrotnie posortowana	40000	0.000376
+Odwrotnie posortowana	50000	0.000389
+Odwrotnie posortowana	60000	0.000526
+Odwrotnie posortowana	70000	0.000563
+Odwrotnie posortowana	80000	0.000666
+Odwrotnie posortowana	90000	0.000884
+Odwrotnie posortowana	100000	0.000873
+Odwrotnie posortowana	110000	0.000870
+Odwrotnie posortowana	120000	0.000893
+Odwrotnie posortowana	130000	0.001011
+Odwrotnie posortowana	140000	0.001679
+Odwrotnie posortowana	150000	0.001611
+V-ksztaltna	10000	0.150487
+V-ksztaltna	20000	0.603911
+V-ksztaltna	30000	1.335139
+V-ksztaltna	40000	2.377834
+V-ksztaltna	50000	3.800572
+V-ksztaltna	60000	5.650240
+V-ksztaltna	70000	7.387638
+V-ksztaltna	80000	9.574803
+V-ksztaltna	90000	12.924729
+V-ksztaltna	100000	14.861332
+V-ksztaltna	110000	17.678602
+V-ksztaltna	120000	21.023599
+V-ksztaltna	130000	25.238636
+V-ksztaltna	140000	29.372542
+V-ksztaltna	150000	32.176168
+A-ksztaltna	10000	0.138496
+A-ksztaltna	20000	0.753641
+A-ksztaltna	30000	1.508221
+A-ksztaltna	40000	2.392359
+A-ksztaltna	50000	4.045690
+A-ksztaltna	60000	5.458676
+A-ksztaltna	70000	7.330362
+A-ksztaltna	80000	9.614071
+A-ksztaltna	90000	15.872964
+A-ksztaltna	100000	15.957542
+A-ksztaltna	110000	18.662723
+A-ksztaltna	120000	21.615461
+A-ksztaltna	130000	25.652103
+A-ksztaltna	140000	29.276841
+A-ksztaltna	150000	33.899969
+Stabilna	10000	0.000128
+Stabilna	20000	0.000292
+Stabilna	30000	0.000439
+Stabilna	40000	0.000571
+Stabilna	50000	0.000664
+Stabilna	60000	0.000576
+Stabilna	70000	0.000778
+Stabilna	80000	0.000971
+Stabilna	90000	0.000989
+Stabilna	100000	0.001308
+Stabilna	110000	0.000864
+Stabilna	120000	0.000889
+Stabilna	130000	0.001719
+Stabilna	140000	0.001844
+Stabilna	150000	0.001898
+QuickSort
+Losowa	10000	0.001597
+Losowa	20000	0.003233
+Losowa	30000	0.005026
+Losowa	40000	0.007176
+Losowa	50000	0.008850
+Losowa	60000	0.010936
+Losowa	70000	0.012766
+Losowa	80000	0.014718
+Losowa	90000	0.017057
+Losowa	100000	0.018829
+Losowa	110000	0.020617
+Losowa	120000	0.022762
+Losowa	130000	0.026617
+Losowa	140000	0.027150
+Losowa	150000	0.029209
+Posortowana	10000	0.000786
+Posortowana	20000	0.001640
+Posortowana	30000	0.002504
+Posortowana	40000	0.003277
+Posortowana	50000	0.004128
+Posortowana	60000	0.005180
+Posortowana	70000	0.006340
+Posortowana	80000	0.006908
+Posortowana	90000	0.007941
+Posortowana	100000	0.008898
+Posortowana	110000	0.009836
+Posortowana	120000	0.010895
+Posortowana	130000	0.011994
+Posortowana	140000	0.012863
+Posortowana	150000	0.013283
+Odwrotnie posortowana	10000	0.000717
+Odwrotnie posortowana	20000	0.001604
+Odwrotnie posortowana	30000	0.002640
+Odwrotnie posortowana	40000	0.003273
+Odwrotnie posortowana	50000	0.004316
+Odwrotnie posortowana	60000	0.005198
+Odwrotnie posortowana	70000	0.006299
+Odwrotnie posortowana	80000	0.006934
+Odwrotnie posortowana	90000	0.007712
+Odwrotnie posortowana	100000	0.008945
+Odwrotnie posortowana	110000	0.009834
+Odwrotnie posortowana	120000	0.010995
+Odwrotnie posortowana	130000	0.012098
+Odwrotnie posortowana	140000	0.012868
+Odwrotnie posortowana	150000	0.013744
+V-ksztaltna	10000	0.081966
+V-ksztaltna	20000	0.336597
+V-ksztaltna	30000	0.769308
+V-ksztaltna	40000	1.353448
+V-ksztaltna	50000	2.093204
+V-ksztaltna	60000	2.983284
+V-ksztaltna	70000	3.995486
+V-ksztaltna	80000	5.333851
+V-ksztaltna	90000	6.939874
+V-ksztaltna	100000	8.422883
+V-ksztaltna	110000	10.371222
+V-ksztaltna	120000	12.351614
+V-ksztaltna	130000	14.586834
+V-ksztaltna	140000	16.861839
+V-ksztaltna	150000	19.272364
+A-ksztaltna	10000	0.080813
+A-ksztaltna	20000	0.015852
+A-ksztaltna	30000	0.038648
+A-ksztaltna	40000	0.069659
+A-ksztaltna	50000	0.044875
+A-ksztaltna	60000	0.164532
+A-ksztaltna	70000	2.946438
+A-ksztaltna	80000	3.915698
+A-ksztaltna	90000	5.379294
+A-ksztaltna	100000	6.792106
+A-ksztaltna	110000	8.462252
+A-ksztaltna	120000	10.219213
+A-ksztaltna	130000	14.362667
+A-ksztaltna	140000	16.575291
+A-ksztaltna	150000	17.612472
+Stabilna	10000	0.000969
+Stabilna	20000	0.001877
+Stabilna	30000	0.003031
+Stabilna	40000	0.004019
+Stabilna	50000	0.004935
+Stabilna	60000	0.006467
+Stabilna	70000	0.007465
+Stabilna	80000	0.008691
+Stabilna	90000	0.009504
+Stabilna	100000	0.010543
+Stabilna	110000	0.011906
+Stabilna	120000	0.013748
+Stabilna	130000	0.014885
+Stabilna	140000	0.015869
+Stabilna	150000	0.016411
+QuickSort Iteracyjny
+Losowa	10000	0.001627
+Losowa	20000	0.003309
+Losowa	30000	0.005298
+Losowa	40000	0.006821
+Losowa	50000	0.009173
+Losowa	60000	0.010539
+Losowa	70000	0.012827
+Losowa	80000	0.015253
+Losowa	90000	0.016887
+Losowa	100000	0.018478
+Losowa	110000	0.020797
+Losowa	120000	0.022539
+Losowa	130000	0.025483
+Losowa	140000	0.027241
+Losowa	150000	0.029242
+Posortowana	10000	0.000577
+Posortowana	20000	0.001219
+Posortowana	30000	0.001822
+Posortowana	40000	0.002533
+Posortowana	50000	0.003195
+Posortowana	60000	0.003866
+Posortowana	70000	0.004477
+Posortowana	80000	0.005302
+Posortowana	90000	0.006157
+Posortowana	100000	0.007462
+Posortowana	110000	0.007587
+Posortowana	120000	0.008045
+Posortowana	130000	0.008636
+Posortowana	140000	0.009368
+Posortowana	150000	0.010110
+Odwrotnie posortowana	10000	0.000573
+Odwrotnie posortowana	20000	0.001214
+Odwrotnie posortowana	30000	0.001851
+Odwrotnie posortowana	40000	0.002489
+Odwrotnie posortowana	50000	0.003324
+Odwrotnie posortowana	60000	0.003867
+Odwrotnie posortowana	70000	0.004390
+Odwrotnie posortowana	80000	0.005331
+Odwrotnie posortowana	90000	0.006141
+Odwrotnie posortowana	100000	0.007114
+Odwrotnie posortowana	110000	0.007426
+Odwrotnie posortowana	120000	0.008137
+Odwrotnie posortowana	130000	0.008448
+Odwrotnie posortowana	140000	0.010406
+Odwrotnie posortowana	150000	0.010139
+V-ksztaltna	10000	0.004882
+V-ksztaltna	20000	0.021467
+V-ksztaltna	30000	0.045430
+V-ksztaltna	40000	0.079077
+V-ksztaltna	50000	0.115182
+V-ksztaltna	60000	0.163184
+V-ksztaltna	70000	0.231284
+V-ksztaltna	80000	0.280162
+V-ksztaltna	90000	0.310219
+V-ksztaltna	100000	0.484442
+V-ksztaltna	110000	0.522297
+V-ksztaltna	120000	0.628869
+V-ksztaltna	130000	0.497883
+V-ksztaltna	140000	0.904842
+V-ksztaltna	150000	1.043721
+A-ksztaltna	10000	0.085829
+A-ksztaltna	20000	0.351460
+A-ksztaltna	30000	0.788915
+A-ksztaltna	40000	1.418644
+A-ksztaltna	50000	2.211609
+A-ksztaltna	60000	3.209716
+A-ksztaltna	70000	4.334606
+A-ksztaltna	80000	5.614864
+A-ksztaltna	90000	7.155060
+A-ksztaltna	100000	8.873130
+A-ksztaltna	110000	10.722847
+A-ksztaltna	120000	12.795474
+A-ksztaltna	130000	15.043055
+A-ksztaltna	140000	17.377442
+A-ksztaltna	150000	19.841363
+Stabilna	10000	0.000733
+Stabilna	20000	0.001563
+Stabilna	30000	0.002243
+Stabilna	40000	0.003132
+Stabilna	50000	0.004189
+Stabilna	60000	0.004848
+Stabilna	70000	0.006363
+Stabilna	80000	0.006825
+Stabilna	90000	0.007977
+Stabilna	100000	0.008953
+Stabilna	110000	0.009734
+Stabilna	120000	0.010706
+Stabilna	130000	0.011562
+Stabilna	140000	0.013267
+Stabilna	150000	0.014288

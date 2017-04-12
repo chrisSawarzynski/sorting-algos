@@ -28,7 +28,7 @@ void Constant(struct TestInstances* Instance, int length)
     (*Instance).elements = malloc(length * sizeof(int));
 
     
-    (*Instance).type_name = strdup("Stajnia");
+    (*Instance).type_name = strdup("Stabilna");
     (*Instance).size = length;
 
     for(int i = 0; i < length; i++){
